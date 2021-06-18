@@ -1,11 +1,18 @@
 #Integrantes del grupo: 
+
 Ana Sofía Castellanos Mosquera 
+
 Correo: a.castellanosm@uniandes.edu.co
+
 Código: 202114167
-* * * * 
+
+* * * * *
+
 ->Estudiante 1: Ana Sofía Castellanos Mosquera
+
 ->Estudiante 2: Ana Sofía Castellanos Mosquera
 
+* * * * *
 
 #ISIS1225 - Estructura de un proyecto
 
