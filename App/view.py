@@ -60,6 +60,7 @@ def loadTags():
     """
     return controller.loadTags('GoodReads/tags.csv')
 
+
 def loadBooksTags():
     """
     Cargar los Tags de libros
